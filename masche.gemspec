@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'buffer/version'
+require 'masche/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "buffer"
-  spec.version       = Buffer::VERSION
+  spec.name          = "masche"
+  spec.version       = Masche::VERSION
   spec.authors       = ["phillyrb"]
   spec.email         = ["info@phillyrb.org"]
   spec.description   = %q{Command line utility to create videos}
