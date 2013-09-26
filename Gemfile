@@ -5,4 +5,5 @@ gemspec
 
 group :development do
   gem "guard-cane"
+  gem "guard-cucumber"
 end
