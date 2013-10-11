@@ -1,5 +1,7 @@
 # Masche
 
+[![Code Climate](https://codeclimate.com/github/iamjarvo/masche.png)](https://codeclimate.com/github/iamjarvo/masche)
+
 TODO: Write a gem description
 
 ## Installation
