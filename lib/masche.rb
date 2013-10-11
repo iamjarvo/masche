@@ -1,3 +1,4 @@
+require "masche/cli"
 require "masche/version"
 
 module Masche
