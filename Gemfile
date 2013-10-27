@@ -7,3 +7,7 @@ group :development do
   gem "guard-cane"
   gem "guard-cucumber"
 end
+
+group :test do
+  gem "rake"
+end
